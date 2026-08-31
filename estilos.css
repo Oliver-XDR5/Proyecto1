@@ -1,0 +1,44 @@
+.Div_Principal{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 100%;
+    background-color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
+.Div_vacio1{
+    width: 10%;
+}
+.Div1{
+    width:37%;
+    height: 150px;
+    background-color: #00ffff;
+}
+.Div1_Titulo{
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+.input1{
+    background-color: #fff8dc;
+    color: #00008b;
+    height: 30px;
+    justify-content: center;
+}
+.input1:hover{
+    background-color: #00008b;
+    color: #fff8dc;
+    height: 30px;
+}
+.input2{
+    background-color: #f0ffff;
+    color: #00bfff;
+    height: 30px;
+}
+.input2:hover{
+    background-color: #4b0082;
+    color: #fff8dc;
+    height: 30px;
+}
