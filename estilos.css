@@ -11,7 +11,7 @@
 }
 .Div1{
     width: 500px;
-    height: 150px;
+    height: 200px;
     background-color: #00ffff;
 }
 .Div1_Titulo{
@@ -22,33 +22,39 @@
 .input1{
     background-color: #fff8dc;
     color: #00008b;
-    height: 30px;
+    height: 50px;
+    margin-left: 20px;
 }
 .input1:hover{
     background-color: #00008b;
     color: #fff8dc;
-    height: 30px;
 }
 .input2{
     background-color: #f0ffff;
     color: #00bfff;
-    height: 30px;
+    height: 50px;
+    margin-left: 20px;
 }
 .input2:hover{
     background-color: #4b0082;
     color: #fff8dc;
-    height: 30px;
 }
 .button1{
     background-color: #fff8dc;
     color: #00008b;
+    height: 35px;
+    margin-left: 175px;
+}
+.button1:hover{
+    background-color: #0000FF;
+    color: #F0F8FF;
 }
 .Vacio{
     width: 10px;
 }
 .Div2{
     width: 500px;
-    height: 150px;
+    height: 200px;
     background-color: #00ffff;
 }
 .Div2_Titulo{
@@ -56,17 +62,35 @@
     font-style: italic;
     font-weight: lighter;
 }
-.Input3{
-    background-color: #fff8dc;
+#usuario{
+    background-color:blanchedalmond;
     color: #00008b;
+    height: 50px;
+    margin-left: 20px;
 }
-.Input4{
-    background-color: #f0ffff;
+#usuario:hover{
+    background-color: #00008b;
+    color: #fff8dc;
+}
+#contraseña{
+    background-color: blanchedalmond;
     color: #00bfff;
+    height: 50px;
+    margin-left: 20px;
+}
+#contraseña:hover{
+    background-color: #4b0082;
+    color: #fff8dc;
 }
 .button2{
     background-color: #fff8dc;
     color: #00008b;
+    height: 35px;
+    margin-left: 160px;
+}
+.button2:hover{
+    background-color: #000000;
+    color: #FFFFFF;
 }
 .Div_vacio3{
     width: 100px;
