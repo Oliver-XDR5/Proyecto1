@@ -5,9 +5,6 @@ function iniciar(){
     if(usuario == "admin" && contraseña == "1234"){
         window.location="reparacion.html";
     }
-    else if(usuario == "input1" && contraseña == "input2"){
-        window.location="reparacion.html";
-    }
     else if(usuario == "" && contraseña == ""){
         alert("Los espacios están vacíos. Por favor, ingrese usuario y contraseña");
     }
