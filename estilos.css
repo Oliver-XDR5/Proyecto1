@@ -1,18 +1,16 @@
 .Div_Principal{
     display: flex;
     justify-content: center;
-    height: 200px;
-    width: 100%;
-    background-color: #FFFFFF;
+    height: 150px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     color: #000000;
 }
 .Div_vacio1{
-    width: 10%;
+    width: 100px;
 }
 .Div1{
-    width:37%;
+    width: 500px;
     height: 150px;
     background-color: #00ffff;
 }
@@ -25,7 +23,6 @@
     background-color: #fff8dc;
     color: #00008b;
     height: 30px;
-    justify-content: center;
 }
 .input1:hover{
     background-color: #00008b;
@@ -41,4 +38,40 @@
     background-color: #4b0082;
     color: #fff8dc;
     height: 30px;
+}
+.button1{
+    background-color: #fff8dc;
+    color: #00008b;
+}
+.Vacio{
+    width: 10px;
+}
+.Div2{
+    width: 500px;
+    height: 150px;
+    background-color: #00ffff;
+}
+.Div2_Titulo{
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+.Input3{
+    background-color: #fff8dc;
+    color: #00008b;
+}
+.Input4{
+    background-color: #f0ffff;
+    color: #00bfff;
+}
+.button2{
+    background-color: #fff8dc;
+    color: #00008b;
+}
+.Div_vacio3{
+    width: 100px;
+}
+.body{
+    background: linear-gradient(to left, aqua, darkblue);
+    display: flex;
 }
